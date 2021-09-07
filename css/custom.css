@@ -1,0 +1,18 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+.skill {
+  display: inline-block;
+  font-size: smaller;
+  padding: 0.5rem 0.8rem;
+  font-weight: 500;
+  width: auto;
+  /* border-width: 2px; */
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
