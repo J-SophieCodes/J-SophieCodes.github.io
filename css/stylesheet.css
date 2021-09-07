@@ -1807,6 +1807,7 @@ hr {
   }
 }
 @media (min-width: 992px) {
+
   .featured-box.featured-box-reverse-xl {
     text-align: right;
   }

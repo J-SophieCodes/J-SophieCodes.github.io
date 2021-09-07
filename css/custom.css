@@ -16,3 +16,13 @@
   transition: all 0.5s ease;
 }
 
+.profile {
+  display: none;
+}
+
+@media (max-width: 991px) {  
+  .profile {
+    display: block;
+    width: 227px;
+  }
+}
