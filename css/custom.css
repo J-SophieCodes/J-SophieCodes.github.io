@@ -26,3 +26,8 @@
     width: 227px;
   }
 }
+
+.btn-primary,
+.btn-secondary {
+  margin: 2px;
+}
